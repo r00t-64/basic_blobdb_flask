@@ -4,6 +4,7 @@ Inside the code path [basic_blobdb_flask/]
 ```bash
    virtualenv create python_modules
    source python_modules/bin/activate
+   pip install Flask
 ```
 ## Run the Flask app:
 ```bash
