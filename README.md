@@ -10,3 +10,7 @@ Inside the code path [basic_blobdb_flask/]
 ```bash
    flask run
 ```
+## Go to:
+```bash
+   http://127.0.0.1:5000/upload
+```
